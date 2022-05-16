@@ -42,8 +42,15 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <br />
 <br />
 <br />
-  
-  
+<p align="left" dir="auto">
+<a href="https://twitter.com/@souvikp47663821" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@souvikp47663821" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-paul-1271531ba/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-paul-1271531ba/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://fb.com/souvikpaul6436" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvikpaul6436" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/__souvik_paul__" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__souvik_paul__" height="30" width="40" style="max-width: 100%;"></a>
+</p>
+<br />
+<br />
+<br />
 <br />
   
 <div class="highlight highlight-source-diff position-relative overflow-auto"><pre><span class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
@@ -78,7 +85,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
-@@     | |&quot;| |                                         @@
+@@     | |&quot;| |                                    @@
 @@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
 @@ _.-' _j L_ '-._                                     @@
