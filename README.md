@@ -46,7 +46,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
   
 <br />
   
- <img src="https://camo.githubusercontent.com/e5aaba0d9ff44cd0f9cc1d11062a74a4d7a2d85147b8b60095ec9806789ee5a3/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6b756d617274756c267468656d653d72656163742d6461726b" alt="" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=kumartul&amp;theme=react-dark" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/e5aaba0d9ff44cd0f9cc1d11062a74a4d7a2d85147b8b60095ec9806789ee5a3/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6b756d617274756c267468656d653d72656163742d6461726b" alt="" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Akash-Chowdhury;theme=react-dark" style="max-width: 100%;">
 <br />
 <br />
 <br />
