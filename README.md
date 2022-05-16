@@ -1,5 +1,5 @@
 
-### <b>Hi there</b> <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif"/>
+### <h3>Hi there!</h3> <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif"/>
 
 ### I'm Akash Chowdhury , Welcome to my GitHub Profile!
 I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
@@ -27,7 +27,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <br />
 
 
-## Languages I know:
+## Languages I use to talk to computer :
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
 <img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
