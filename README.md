@@ -46,7 +46,25 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
   
 <br />
   
-<img src="https://camo.githubusercontent.com/e5aaba0d9ff44cd0f9cc1d11062a74a4d7a2d85147b8b60095ec9806789ee5a3/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d6b756d617274756c267468656d653d72656163742d6461726b" alt="" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Akash-Chowdhury;theme=react-dark" style="max-width: 100%;">
+<pre><span class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
+<span class="pl-mdr">@@       o o                                           @@</span>
+<span class="pl-mdr">@@       | |                                           @@</span>
+<span class="pl-mdr">@@      _L_L_                                          @@</span>
+<span class="pl-mdr">@@   ❮\/__-__\/❯ Programming isn't about what you know @@</span>
+<span class="pl-mdr">@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@</span>
+<span class="pl-mdr">@@   ❮/ \`-'/ \❯                                       @@</span>
+<span class="pl-mdr">@@     _/`U'\_                                         @@</span>
+<span class="pl-mdr">@@    ( .   . )     .----------------------------.     @@</span>
+<span class="pl-mdr">@@   / /     \ \    | while( ! (succed=try() ) ) |     @@</span>
+<span class="pl-mdr">@@   \ |  ,  | /    '----------------------------'     @@</span>
+<span class="pl-mdr">@@    \|=====|/                                        @@</span>
+<span class="pl-mdr">@@     |_.^._|                                         @@</span>
+<span class="pl-mdr">@@     | |"| |                                         @@</span>
+<span class="pl-mdr">@@     ( ) ( )   Testing leads to failure              @@</span>
+<span class="pl-mdr">@@     |_| |_|   and failure leads to understanding    @@</span>
+<span class="pl-mdr">@@ _.-' _j L_ '-._                                     @@</span>
+<span class="pl-mdr">@@(___.'     '.___)                                    @@</span>
+<span class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span></pre>
 <br />
 <br />
 <br />
