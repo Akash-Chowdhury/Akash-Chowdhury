@@ -10,6 +10,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akash-chowdhury-224467225), [Gmail](mailto:chowdhuryakash950@gmail.com).
 - 😄 Pronouns: He/Him/His.
+- <img align="right" alt="gif" width="100px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 <br />
 <!-- GitHub Stats -->
 <h2 align="center">My Github Statistics: </h2>   
