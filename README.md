@@ -1,5 +1,5 @@
 
-### Hi there 👋<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif"/>
+### <b>Hi there</b> <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif"/>
 
 ### I'm Akash Chowdhury , Welcome to my GitHub Profile!
 I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
