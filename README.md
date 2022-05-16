@@ -52,7 +52,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <br />
 <br />
   
-<div background="black" align="center" class="highlight highlight-source-diff position-relative overflow-auto"><pre><span color="blue" class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
+<div backgroundcolor="black" align="center" class="highlight highlight-source-diff position-relative overflow-auto"><pre><span color="blue" class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
 <span class="pl-mdr">@@       o o                                           @@</span>
 <span class="pl-mdr">@@       | |                                           @@</span>
 <span class="pl-mdr">@@      _L_L_                                          @@</span>
