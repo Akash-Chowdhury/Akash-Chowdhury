@@ -52,7 +52,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <br />
 <br />
   
-<div align="center" class="highlight highlight-source-diff position-relative overflow-auto"><pre><span class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
+<div background="black" align="center" class="highlight highlight-source-diff position-relative overflow-auto"><pre><span color="blue" class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
 <span class="pl-mdr">@@       o o                                           @@</span>
 <span class="pl-mdr">@@       | |                                           @@</span>
 <span class="pl-mdr">@@      _L_L_                                          @@</span>
@@ -70,7 +70,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <span class="pl-mdr">@@     |_| |_|   and failure leads to understanding    @@</span>
 <span class="pl-mdr">@@ _.-' _j L_ '-._                                     @@</span>
 <span class="pl-mdr">@@(___.'     '.___)                                    @@</span>
-<span class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+<span color="blue" class="pl-mi1"><span class="pl-mi1">+</span>@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
