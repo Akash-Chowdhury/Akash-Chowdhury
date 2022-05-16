@@ -36,7 +36,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 
 <br />
-<br>
+
 ## Languages I use to talk to computer :
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
 <img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
