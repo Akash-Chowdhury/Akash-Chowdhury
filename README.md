@@ -2,7 +2,7 @@
 ### <h1>Hi there !</h1><img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/Hi.gif"/>
 
 ### I'm Akash Chowdhury , Welcome to my GitHub Profile!
-I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
+<pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre>
 <br />
 <img align="right" alt="gif" width="300px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 
