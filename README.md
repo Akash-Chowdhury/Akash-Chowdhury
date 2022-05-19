@@ -5,6 +5,7 @@
 I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
 
 <img align="right" alt="gif" width="280px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
+<br />
 ## I'm a programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project.
 - 🌱 I’m currently learning Data Structure & Algorithm ,Web Development.
