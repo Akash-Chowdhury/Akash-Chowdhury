@@ -13,8 +13,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akash-chowdhury-224467225), [Gmail](mailto:chowdhuryakash950@gmail.com).
 - 😄 Pronouns: He/Him/His.
 <br />
-<br />
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/155e1b3d5fce1e9469061bfb3b03f9155be63a968a1e8cd64b5b1e5711d54eca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f7576696b7061756c36343336266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/155e1b3d5fce1e9469061bfb3b03f9155be63a968a1e8cd64b5b1e5711d54eca/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736f7576696b7061756c36343336266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Akash-Chowdhury" data-canonical-src="https://komarev.com/ghpvc/?username=Akash-Chowdhury&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 <!-- GitHub Stats -->
 <h2 align="center">My Github Statistics: </h2>   
   
