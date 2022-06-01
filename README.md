@@ -4,7 +4,7 @@
 ### I'm Akash Chowdhury , Welcome to my GitHub Profile!
 <pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre>
 <br />
-<img align="right" alt="gif" width="300px" src="(https://c.tenor.com/azZCJ2YpsGgAAAAj/programming.gif)" />
+<img align="right" alt="gif" width="300px" src="https://c.tenor.com/azZCJ2YpsGgAAAAj/programming.gif" />
 ### I'm a programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project.
 - 🌱 I’m currently learning Data Structure & Algorithm ,Web Development.
