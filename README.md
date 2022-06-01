@@ -4,7 +4,7 @@
 ### I'm Akash Chowdhury , Welcome to my GitHub Profile!
 <pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre>
 <br />
-
+<img align="right" alt="gif" width="300px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 ## I'm a programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project.
 - 🌱 I’m currently learning Data Structure & Algorithm ,Web Development.
@@ -13,7 +13,6 @@
 - 😄 Pronouns: He/Him/His.
 <br />
 <!-- GitHub Stats -->
-<img align="right" alt="gif" width="300px" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" />
 <h2 align="center">My Github Statistics: </h2>   
   
 <p align="center">
