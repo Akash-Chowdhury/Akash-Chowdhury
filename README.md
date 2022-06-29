@@ -29,8 +29,6 @@
 </p>  
 <br />
 
-<p  align="center"><a target="_blank"rel="noopener noreferrer" href="https://camo.githubusercontent.com/b8da437849771d8233173a67c598f628c86da41a16b09450e583f91bf8529f0d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d506174616c696e266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/b8da437849771d8233173a67c598f628c86da41a16b09450e583f91bf8529f0d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d506174616c696e266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?user=Akash-Chowdhury;layout=compact" style="max-width: 100%;"></a></p>
-<br />
 
 ## Languages I use to talk to computer :
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
