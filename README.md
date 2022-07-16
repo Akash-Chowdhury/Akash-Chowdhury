@@ -5,7 +5,7 @@
 <pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre>
 <br />
 
-<img align="right" alt="gif" width="500px" src="https://c.tenor.com/azZCJ2YpsGgAAAAj/programming.gif" />
+
 
 ### I'm a programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project.
