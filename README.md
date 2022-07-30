@@ -36,6 +36,7 @@
 <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="48" height="50" />
 <img align = "left" src="https://pngimg.com/uploads/php/php_PNG34.png" alt="PHP" width="60" height="50" />
 <img align="left" alt="Python" width="50px" src="https://img.icons8.com/fluency/2x/python.png" />
+<img align="left" alt="Python" width="50px" src="https://freepngimg.com/thumb/java/5-2-java-png-clipart-thumb.png" />
 
 <br />
 <br />
