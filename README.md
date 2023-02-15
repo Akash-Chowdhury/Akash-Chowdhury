@@ -24,7 +24,7 @@
 - 🌱  I’m currently learning Data Structures and Algorithm, Full Stack Web Development.
 - 👯 I’m looking to collaborate on Open source projects.
 - 💬 Ask me about my Projects.
-- ✉️  Get in touch with me via email: [<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)&&[<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)
+- ✉️  Get in touch with me via email: [<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)   <a href="https://www.linkedin.com/in/akash-chowdhury-224467225/"><img src="https://img.shields.io/badge/LINKIDN-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=blue"></a>
 - 😄 Pronouns: He/Him
 
 <!-- Your GitHub stats -->
