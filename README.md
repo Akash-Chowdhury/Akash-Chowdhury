@@ -1,13 +1,13 @@
 <!-- Your header -->
 <h1 align="center">Hi there, I'm Akash Chowdhury 👋</h1>
-<h3 align="center"><pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre></h3>
+<h3 align="center"><pre>I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.</pre></h3> <br>
 
 <!-- Your introduction -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU7t9z45X9P9t28/giphy.gif" width="30%">
-  <br>
+  <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" width="30%">
+  <br> <br>
   I'm a Programmer💻, Developer👨‍💻  who loves building cool stuff with code.
-</p>
+</p> <br>
 
 <!-- Your skills -->
 <p align="center">
@@ -20,8 +20,7 @@
 </p>
 
 <!-- Visitors Badge -->
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
+<p align=left"> <img src="https://komarev.com/ghpvc/?username=Akash-Chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
 
 <!-- Your content -->
 - 👀 Looking for SDE Full Time Roles..
