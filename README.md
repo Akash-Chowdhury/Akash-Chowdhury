@@ -38,6 +38,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Chowdhury&show_icons=true&theme=radical">
 </p>
 
+<!-- GitHub Stats -->
+<h2 align="center">My contribution Streak: </h2>
+<p align="center">
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=Akash-Chowdhury&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/>
+</p>  
+<br />
+
+
 <!-- Your latest projects -->
 <h3 align="center">🚀 My Latest Projects</h3>
 
