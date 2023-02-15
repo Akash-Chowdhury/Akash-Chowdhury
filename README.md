@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/Tools-[Your third top tool or technology]-informational?style=flat&logo=[Your tool logo]&logoColor=white&color=[Your color]">
 </p>
 
+<!-- Visitors Badge -->
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Chowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
+
 <!-- Your content -->
 - 👀 Looking for SDE Full Time Roles..
 - 🌱  I’m currently learning Data Structures and Algorithm, Full Stack Web Development.
