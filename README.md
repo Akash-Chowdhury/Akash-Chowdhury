@@ -4,19 +4,22 @@
 
 <!-- Your introduction -->
 <p align="center">
+   I'm a Programmer💻, Developer👨‍💻  who loves building cool stuff with code.<br> <br>
   <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" width="30%">
-  <br> <br>
-  I'm a Programmer💻, Developer👨‍💻  who loves building cool stuff with code.
 </p> <br>
-
 <!-- Your skills -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-[C++]-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=[Your color]">
-  <img src="https://img.shields.io/badge/Code-[Your second top programming language]-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=[Your color]">
-  <img src="https://img.shields.io/badge/Code-[Your third top programming language]-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=[Your color]">
-  <img src="https://img.shields.io/badge/Tools-[Your top tool or technology]-informational?style=flat&logo=[Your tool logo]&logoColor=white&color=[Your color]">
-  <img src="https://img.shields.io/badge/Tools-[Your second top tool or technology]-informational?style=flat&logo=[Your tool logo]&logoColor=white&color=[Your color]">
-  <img src="https://img.shields.io/badge/Tools-[Your third top tool or technology]-informational?style=flat&logo=[Your tool logo]&logoColor=white&color=[Your color]">
+  <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=[Your color]">
+  <img src="https://img.shields.io/badge/PYTHON-informational?style=flat&logo=python&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=white&color=red">
+  <img src="https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=skyblue">
+  <img src="https://img.shields.io/badge/MySql-informational?style=flat&logo=mysql&logoColor=white&color=orange">
+  <img src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=red">
+  <img src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=yellow">
+  <img src="https://img.shields.io/badge/React Js-informational?style=flat&logo=Reactjs&logoColor=white&color=blue">
+  <img src="https://img.shields.io/badge/Node Jst-informational?style=flat&logo=nodejs&logoColor=white&color=green">
 </p>
 
 <!-- Visitors Badge -->
@@ -39,24 +42,27 @@
 <h3 align="center">🚀 My Latest Projects</h3>
 
 <p align="center">
-  <a href="Your project link"><b>[Your Project Title]</b></a>
+  <a href="https://akash-chowdhury.github.io/Tic-Tac-Toe-Game/"><b>TIC TAC TOE</b></a>
   <br/>
-  [A short description of your project]
+  Developed a Multiplayer Tic Tac Toe Game. There is a board with 3X3 squares. The goal of Tic Tac Toe Game is
+to be one of the palyers to get three same symbols in a row- horizontally, vertically or diagonally on a 3X3 grid
+Technology Used:- HTML, CSS JavaScript
   <br/>
-  <a href="Your project link"><img src="Your project image URL"></a>
+  <a href="http://myphp-project01.epizy.com/"><b>Ecommerce Site</b></a>
   <br/>
+   Implements the functioning of an E-commerce Website that performs various functions like sign up, login, logout,
+add to cart, add items as an admin and much more, developed by using PHP and MySQL                                                             
   <br/>
-  <a href="Your project link"><b>[Your Project Title]</b></a>
+  <a href="https://akash-chowdhury.github.io/todo-list/"><b>Todos List</b></a>
   <br/>
-  [A short description of your project]
+  Developed a Todo List app. The goal of the app is to stopping you from forgetting things, helps prioritise tasks,
+manage tasks effectively, use time wisely and improve time management as well as workflow.
+Technology Used:- React J
   <br/>
-  <a href="Your project link"><img src="Your project image URL"></a>
 
 </p>
 <!-- Your footer -->
 <p align="center">
-  <a href="Your website link"><img src="Your logo URL" width="30"></a>
   <br/>
-  <br/>
-  Made with ❤️ by [Your Name]
+  Made with ❤️ by Akash Chowdhury
 </p>
