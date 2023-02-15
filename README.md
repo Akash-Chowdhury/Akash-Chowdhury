@@ -20,18 +20,16 @@
 </p>
 
 <!-- Your content -->
-- 🔭 I’m currently working on [Your current project] using [Technology or framework]
-- 🌱 I’m currently learning [Skills or technologies you are currently learning]
-- 👯 I’m looking to collaborate on [Open source projects or interests]
-- 🤔 I’m looking for help with [Your current challenge or project]
-- 💬 Ask me about [Your expertise or interests]
-- 📫 How to reach me: [Contact or social media link]
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 👀 Looking for SDE Full Time Roles..
+- 🌱  I’m currently learning Data Structures and Algorithm, Full Stack Web Development.
+- 👯 I’m looking to collaborate on Open source projects.
+- 💬 Ask me about my Projects.
+- ✉️  Get in touch with me via email: [<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)&&[<img src="https://img.shields.io/badge/GMAIL-informational?style=flat&logo=[Your programming language logo]&logoColor=white&color=red">](mailto:chowdhuryakash950@gmail.com)
+- 😄 Pronouns: He/Him
 
 <!-- Your GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Chowdhury&show_icons=true&theme=radical">
 </p>
 
 <!-- Your latest projects -->
