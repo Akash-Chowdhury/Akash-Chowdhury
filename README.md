@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=yellow">
   <img src="https://img.shields.io/badge/React Js-informational?style=flat&logo=Reactjs&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Node Jst-informational?style=flat&logo=nodejs&logoColor=white&color=green">
+  <img src="https://img.shields.io/badge/Node Js-informational?style=flat&logo=nodejs&logoColor=white&color=green">
+   <img src="https://img.shields.io/badge/Mongo DB-informational?style=flat&logo=mongodb&logoColor=white&color=blue">
 </p>
 
 <!-- Visitors Badge -->
