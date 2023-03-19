@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Node Js-informational?style=flat&logo=nodejs&logoColor=white&color=green">
    <img src="https://img.shields.io/badge/Mongo DB-informational?style=flat&logo=mongodb&logoColor=white&color=blue">
     <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=blue">
-   <img src="https://img.shields.io/badge/Jupyter Notebook-informational?style=flat&logo=jupyter notebook&logoColor=white&color=blue">
 </p>
 
 <!-- Visitors Badge -->
