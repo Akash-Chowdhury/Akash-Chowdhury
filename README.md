@@ -106,8 +106,27 @@ Technology Used:- React J
   <br/>
 
 </p>
-<!-- Your footer -->
-<p align="center">
-  <br/>
-  Made with ❤️ by Akash Chowdhury
+<div align="center">
+<h3> 🤝🏻 Find me around @ </h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Chayan-11)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chayan.nit24@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/be_it_chayan)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chayan_11)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/chayan24nit/profile)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/chayan_11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/Chayan_11/)
+
+</div>
+
+<br/>
+
+<p align="center"> 
+  Visitor Count
+  
+  </br>
+  <img src="https://profile-counter.glitch.me/Akash-Chowdhury/count.svg" />
 </p>
+
+### <p align="center"> 💕 Do drop a ⭐ if you find my repositories helpful ! 💕 </p>
