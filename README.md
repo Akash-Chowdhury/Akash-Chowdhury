@@ -114,8 +114,8 @@ Technology Used:- React J
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chowdhuryakash950@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)]()
 [![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chowdhuryakash92)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks(https://auth.geeksforgeeks.org/user/chowdhuryakash950/practice)
-[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/akash2024)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/chowdhuryakash950/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/akash2024/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/Akash01/)
 
 </div>
