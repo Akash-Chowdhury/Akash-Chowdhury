@@ -109,14 +109,14 @@ Technology Used:- React J
 <div align="center">
 <h3> 🤝🏻 Find me around @ </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/chayan-debbarma/)
-[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Chayan-11)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chayan.nit24@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)](https://twitter.com/be_it_chayan)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chayan_11)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks)](https://auth.geeksforgeeks.org/user/chayan24nit/profile)
-[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/chayan_11)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/Chayan_11/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/akash-chowdhury-224467225/)
+[![Github](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub)](https://github.com/Akash-Chowdhury)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail)](mailto:chowdhuryakash950@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter)]()
+[![HackerRank](https://img.shields.io/badge/Hackerrank-black?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/chowdhuryakash92)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=GeeksforGeeks(https://auth.geeksforgeeks.org/user/chowdhuryakash950/practice)
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=CodeChef)](https://www.codechef.com/users/akash2024)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=LeetCode)](https://leetcode.com/Akash01/)
 
 </div>
 
