@@ -82,29 +82,6 @@
 </p>  
 <br />
 
-
-<!-- Your latest projects -->
-<h3 align="center">🚀 My Latest Projects</h3>
-
-<p align="center">
-  <a href="https://akash-chowdhury.github.io/Tic-Tac-Toe-Game/"><b>TIC TAC TOE</b></a>
-  <br/>
-  Developed a Multiplayer Tic Tac Toe Game. There is a board with 3X3 squares. The goal of Tic Tac Toe Game is
-to be one of the palyers to get three same symbols in a row- horizontally, vertically or diagonally on a 3X3 grid
-Technology Used:- HTML, CSS JavaScript
-  <br/>
-  <a href="http://myphp-project01.epizy.com/"><b>Ecommerce Site</b></a>
-  <br/>
-   Implements the functioning of an E-commerce Website that performs various functions like sign up, login, logout,
-add to cart, add items as an admin and much more, developed by using PHP and MySQL                                                             
-  <br/>
-  <a href="https://akash-chowdhury.github.io/todo-list/"><b>Todos List</b></a>
-  <br/>
-  Developed a Todo List app. The goal of the app is to stopping you from forgetting things, helps prioritise tasks,
-manage tasks effectively, use time wisely and improve time management as well as workflow.
-Technology Used:- React J
-  <br/>
-
 </p>
 <div align="center">
 <h3> 🤝🏻 Find me around @ </h3>
