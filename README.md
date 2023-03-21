@@ -27,7 +27,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![PHP](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![JavaScript](https://img.shields.io/badge/java&nbsp;Script-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
@@ -45,7 +45,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%23092E20.svg?style=for-the-badge&logo=MUI&logoColor=white) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <hr />
 
@@ -65,7 +65,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23430098.svg?style=for-the-badge&logo=GitHub&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyternotebook-%234285F4.svg?style=for-the-badge&logo=jupyter-notebook&logoColor=white) &nbsp;
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter&nbsp;Notebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+ &nbsp;
+ [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
 
 <hr />
 
