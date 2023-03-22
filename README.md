@@ -67,6 +67,7 @@
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter&nbsp;Notebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
  &nbsp;
+ [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)&nbsp;
  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 
