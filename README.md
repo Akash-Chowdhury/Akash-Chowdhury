@@ -77,7 +77,7 @@
 
 <!-- Your GitHub stats -->
 <p align="center">
-<img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=Akash-Chowdhury&layout=compact&theme=radical&hide_border=true" height="180rem" style="border:1px solid white"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akash-Chowdhury&theme=react&line_height=40&hide=css"/>
 </p>
 <br />
 <p align="center">
