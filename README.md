@@ -91,10 +91,6 @@
 
 <!-- Your GitHub stats -->
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akash-Chowdhury&theme=react&line_height=40&hide=css"/>
-</p>
-<br />
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-Chowdhury&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Akash" height="180rem" />
 </p>
 
