@@ -58,13 +58,15 @@
 
 <hr />
 
-### 🏪 Storaging things on ( except knowledge:) )
+### 🏪 Storaging things & Servers ( except knowledge:) )
 
 <br />
 
 ![MySql](https://img.shields.io/badge/MySql-039BE5?style=for-the-badge&logo=MySql&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 
 <hr />
