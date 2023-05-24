@@ -63,6 +63,8 @@
 <br />
 
 ![MySql](https://img.shields.io/badge/MySql-039BE5?style=for-the-badge&logo=MySql&logoColor=white) &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 
 <hr />
@@ -73,6 +75,9 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23430098.svg?style=for-the-badge&logo=GitHub&logoColor=white) &nbsp;
+![Eclipse IDE](https://img.icons8.com/color/48/000000/eclipse-ide.png)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter&nbsp;Notebook-%23E34F26.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
  &nbsp;
