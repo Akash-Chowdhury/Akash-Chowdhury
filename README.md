@@ -52,7 +52,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)&nbsp;
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=rest-api&logoColor=white)
+![RestApi](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=restapi&logoColor=white)
 
 
 
