@@ -49,6 +49,7 @@
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/Vite-%23007ACC.svg?style=for-the-badge&logo=Vite&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%23092E20.svg?style=for-the-badge&logo=MUI&logoColor=white) &nbsp;
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233197CE.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)&nbsp;
@@ -64,7 +65,6 @@
 
 ![MySql](https://img.shields.io/badge/MySql-039BE5?style=for-the-badge&logo=MySql&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
