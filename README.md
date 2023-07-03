@@ -49,7 +49,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%23007ACC.svg?style=for-the-badge&logo=Vite&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%23092E20.svg?style=for-the-badge&logo=MUI&logoColor=white) &nbsp;
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-%233197CE.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=flat-square&logo=Socket.io&logoColor=010101)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-F6D860?style=for-the-badge&logo=Socket.io&logoColor=010101)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwind&nbsp;css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)&nbsp;
